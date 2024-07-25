@@ -1,4 +1,4 @@
-# Building an Interpreter
+# Building an Interpreter [ currently developing ]
   * lexer (completed)
   * repl (completed)
   * parser (ongoing)
